@@ -1,1 +1,2 @@
 # frab_bot
+/help
